@@ -1,0 +1,3 @@
+Product(ma=1, ten='TraSua', donGia=10.0)
+Product(ma=2, ten='TraChanh', donGia=199.0)
+Product(ma=3, ten='TraDa', donGia=120.2)
